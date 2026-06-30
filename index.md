@@ -1,6 +1,6 @@
-# Just A Rock 🪨
+# Path Of Ascension 🪨
 
-A cozy pet rock game for iOS.
+A Fitness leveling game for anime fans for iOS.
 
 ## Links
 - [Privacy Policy](./privacy-policy)
