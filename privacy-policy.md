@@ -1,124 +1,106 @@
-Privacy Policy
+# Privacy Policy
 
-Last Updated: June 2026
+**Last Updated:** June 2026
 
-Welcome to Path of Ascension ("the App"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how it is used, and your rights regarding your data.
+Welcome to **Path of Ascension** ("the App"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how it is used, and your rights regarding your data.
 
-Information We Collect
+## Information We Collect
 
-To provide the features of Path of Ascension, we may collect the following information:
-
-Account Information
+### Account Information
 
 When you sign in using Google or another supported authentication provider, we may collect:
 
-Name
-Email address
-Profile picture
-Authentication identifier
+- Name
+- Email address
+- Profile picture
+- Authentication identifier
 
-Authentication is securely managed through Clerk.
+Authentication is securely managed through **Clerk**.
 
-Gameplay Data
+### Gameplay Data
 
-To provide game functionality, we store information such as:
+To provide app functionality, we may store:
 
-Level
-Experience (XP)
-Completed quests
-Badge progress
-Guild membership
-Guild messages
-Rankings
-User preferences
+- Level
+- Experience points (XP)
+- Completed quests
+- Badge progress
+- Guild membership
+- Guild messages
+- Rankings
+- User preferences
 
-This information is stored securely using Convex.
+This information is stored securely using **Convex**.
 
-Device Information
+### Device Information
 
-We may automatically collect limited technical information, including:
+We may collect limited technical information, including:
 
-Device model
-Operating system
-App version
-Crash reports
-Diagnostic information
+- Device model
+- Operating system
+- App version
+- Crash reports
+- Diagnostic information
 
-This information helps us improve app stability and performance.
+This helps us improve app stability and performance.
 
-Advertising
+## Advertising
 
-Path of Ascension displays advertisements using Google AdMob.
+Path of Ascension displays advertisements using **Google AdMob**.
 
-AdMob may automatically collect information such as:
+AdMob may collect information such as:
 
-Device identifiers
-Advertising identifiers
-Approximate location
-Ad interactions
-Device information
+- Device identifiers
+- Advertising identifiers
+- Approximate location
+- Ad interactions
+- Device information
 
-This information is used to display relevant advertisements and measure advertising performance.
+You can manage personalized advertising through your device privacy settings.
 
-You can manage advertising preferences through your device's privacy settings.
+## Analytics
 
-Analytics
+We may collect anonymous analytics information to understand how players use the App and improve the experience.
 
-We may collect anonymous analytics information to better understand how players use the App, including:
+## Data Storage
 
-Feature usage
-Session duration
-Crash reports
-Performance metrics
+User account and gameplay data are stored using **Convex** cloud services.
 
-Analytics data is used solely to improve the user experience.
+Authentication data is managed by **Clerk**.
 
-Data Storage
+## Data Sharing
 
-User account and gameplay data are securely stored using Convex cloud services.
+We do **not** sell personal information.
 
-Authentication data is securely managed by Clerk.
+Limited data may be shared with trusted providers necessary to operate the App, including:
 
-Reasonable security measures are used to help protect your information from unauthorized access.
+- Clerk
+- Convex
+- Google AdMob
+- Analytics or crash reporting providers
 
-Data Sharing
+## Your Rights
 
-We do not sell your personal information.
+Depending on your location, you may have the right to:
 
-Information may be shared only with trusted service providers necessary to operate the App, including:
+- Access your personal data
+- Correct inaccurate data
+- Request account deletion
+- Request data deletion
+- Withdraw consent where applicable
 
-Clerk (authentication)
-Convex (cloud database)
-Google AdMob (advertising)
-Crash reporting and analytics providers
+## Children’s Privacy
 
-These providers process data only as necessary to provide their services.
+Path of Ascension is not intended for children under 13.
 
-Your Rights
+We do not knowingly collect personal information from children.
 
-Depending on your location, you may have rights to:
+## Changes to This Policy
 
-Access your personal data
-Correct inaccurate information
-Request deletion of your account
-Withdraw consent where applicable
+We may update this Privacy Policy from time to time. Updates will be posted on this page.
 
-To request account deletion or data removal, please contact us using the information below.
+## Contact
 
-Children's Privacy
+For support, privacy questions, or account deletion requests:
 
-Path of Ascension is not intended for children under the age of 13 (or the applicable minimum age in your country).
-
-We do not knowingly collect personal information from children. If you believe a child has provided personal information, please contact us so we can remove it.
-
-Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-
-Any changes will be posted on this page with an updated revision date.
-
-Contact Us
-
-If you have questions about this Privacy Policy or would like to request deletion of your account or personal data, please contact us:
-
-Email: support@nexuscorp.com
+**Email:** support@nexuscorp.com
